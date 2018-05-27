@@ -1,29 +1,29 @@
-https://turtlecoin.lol/it/
+https://turtlecoin.lol/de/
 
-Top 'Resources' navbar item
+Top 'Ressourcen' navbar item
 
-1. Resources
+1. Ressourcen
 2. TurtleCoin Wiki
-3. Developer Blog
-4. Developer Resources
-5. Brand Guidelines
+3. Entwickler-Blog
+4. Entwickler-Ressourcen
+5. Markenrichtlinien
 
 
 https://turtlecoin.lol/
 
-6. The word 'Quote' on this page.
+6. The word 'Quote': Zitat
 
 
-https://turtlecoin.lol/it/brand/
+https://turtlecoin.lol/de/brand/
 
 the navbar here
 
-7. Guidelines
-8. Assets
-9. Join Us
-10. Back to Main
+7. Richtlinien
+8. Anlagen
+9. Mach mit
+10. Zurück zur Hauptseite
 
 
 Right at the bottom of the page (button for going back to the top)
 
-11: Up
+11: Nach oben
